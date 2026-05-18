@@ -23,7 +23,7 @@ To run this application locally, ensure you have [Flutter](https://docs.flutter.
 1. Clone or download this repository.
 2. Navigate to the project directory:
    ```bash
-   cd "Flutter guitar chord shape thing"
+   cd "enter project directory"
    ```
 3. Run the application:
    ```bash
